@@ -1,0 +1,5 @@
+export const ADD_BOOK = "ADD_BOOK"
+export const TOGGLE_FAV_BOOK = "TOGGLE_FAV_BOOK"
+export const DELETE_BOOK = "DELETE_BOOK"
+export const SET_CURRENT_PAGE_BOOK = "SET_CURRENT_PAGE_BOOK"
+export const SET_FILTER = "SET_FILTER";
