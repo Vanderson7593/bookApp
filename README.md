@@ -2,7 +2,11 @@
 BookApp is an simple app to manage your books in reading.
 
 ##Screenshots
-[](../main/Screenshots/Screenshot_1614901073.png)
+<div>
+  <img height=420 width=200 src="https://github.com/Vandelson7593/bookApp/blob/main/screenshots/Screenshot_1614901073.png" />
+  <img height=420 width=200 src="https://github.com/Vandelson7593/bookApp/blob/main/screenshots/Screenshot_1614901073.png"/>
+</div>
+
 
 ## Installation
 
