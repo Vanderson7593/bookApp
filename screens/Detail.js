@@ -49,7 +49,7 @@ const Detail = ({ route, navigation, getBook, onToggleFav }) => {
                             width: 220,
                             borderRadius: 8
                         }}
-                        resizeMode="contain"
+                    // resizeMode="contain"
                     />
                 </View>
                 <View style={{ paddingVertical: SIZES.padding2 * 4 }}>

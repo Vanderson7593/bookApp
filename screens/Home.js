@@ -86,7 +86,11 @@ const Home = ({ navigation, store }) => {
                             {item.author}
                         </Text>
 
-                        <ProgressBar style={{ position: "absolute", left: 12, bottom: 14, marginTop: 14 }} pages={item.pages} completed={item.currentPage} />
+                        <ProgressBar
+                            style={{ position: "absolute", left: 12, bottom: 14, marginTop: 14 }}
+                            pages={item.pages}
+                            completed={item.currentPage}
+                        />
                     </View>
                 </View>
             </TouchableOpacity>

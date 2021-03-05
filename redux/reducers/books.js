@@ -81,7 +81,7 @@ export default function (state = initialState, action) {
           ...book,
           id: action.payload.id,
           fav: false,
-          currentPage: 0,
+          // currentPage: 0,
         },
       ];
     }
