@@ -1,5 +1,6 @@
 # BookApp
 BookApp is an simple app to manage your books in reading.
+Made with react-native.
 
 ## Screenshots
 
