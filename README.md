@@ -1,6 +1,6 @@
 # BookApp
 BookApp is an simple app to manage your books in reading.
-Made with react-native.
+Made with React Native.
 
 ## Screenshots
 
@@ -20,6 +20,13 @@ Use the package manager yarn or npm to install foobar.
 
 ```js
 yarn install
+```
+## Running the android app
+Use the package manager yarn or npm to install foobar.
+Make sure that your AVD is running
+
+```js
+yarn run-android
 ```
 
 ## Contributing
