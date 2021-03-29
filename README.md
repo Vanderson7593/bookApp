@@ -4,16 +4,14 @@ Made with React Native.
 
 ## Screenshots
 
+<p float="left">
 <img height=420 width=200 src="https://github.com/Vandelson7593/bookApp/blob/main/screenshots/Screenshot_1614901073.png"/>
 <img height=420 width=200 src="https://github.com/Vandelson7593/bookApp/blob/main/screenshots/Screenshot_1614901324.png"/>
 <img height=420 width=200 src="https://github.com/Vandelson7593/bookApp/blob/main/screenshots/Screenshot_1614911514.png"/>
 <img height=420 width=200 src="https://github.com/Vandelson7593/bookApp/blob/main/screenshots/Screenshot_1614911521.png"/>
 <img height=420 width=200 src="https://github.com/Vandelson7593/bookApp/blob/main/screenshots/Screenshot_1614911584.png"/>
 <img height=420 width=200 src="https://github.com/Vandelson7593/bookApp/blob/main/screenshots/Screenshot_1614911746.png"/>
-
-
-
-
+</p>
 
 ## Installation
 Use the package manager yarn or npm to install foobar.
@@ -26,7 +24,7 @@ Use the package manager yarn or npm to install foobar.
 Make sure that your AVD is running
 
 ```js
-yarn run-android
+npx react-native run-android
 ```
 
 ## Contributing
