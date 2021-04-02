@@ -20,7 +20,7 @@ Use the package manager yarn or npm to install foobar.
 yarn install
 ```
 ## Running the android app
-Use the package manager yarn or npm to install foobar.
+Use the package manager yarn or npm to install dependencies.
 Make sure that your AVD is running
 
 ```js
